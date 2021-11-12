@@ -1,5 +1,5 @@
 const db = require("../models");
-const Application = db.application;
+const Application = db.applications;
 const Op = db.Sequelize.Op;
 
 // Create and Save a new Application
